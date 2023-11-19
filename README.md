@@ -41,7 +41,7 @@ git clone https://github.com/HerrPhoton/AgroCode_Hack_2023
 ```
 + Откройте папку установите необходимые библиотеки командой ниже:
 ```
-pip -r install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Результаты работы программы
