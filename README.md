@@ -1,10 +1,10 @@
-# AgroCode_Hack 2023
+# AgroCode Hack 2023
 
 <img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/360_F_430128077_LH7gf3HpRH4pp4P8ULCXkwBca72XK0SW.jpg"  alt="1" width = 960px height = 260px > 
 
 ---
 
-<img src = "https://img.shields.io/badge/Python 3.9-006C6B?style=for-the-badge&color=3C7270&labelColor=%23006C6B&logo=python&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/Python 3.9-006C6B?style=for-the-badge&color=00000B&labelColor=%2300000B&logo=python&logoColor=FFFFFF">
 
 ---
 ### Выполнили: 
