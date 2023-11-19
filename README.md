@@ -1,13 +1,10 @@
 # AgroCode_Hack 2023
 
-![](https://github.com/HerrPhoton/Water_drop_detection/blob/Documentation/images/logo(2).jpg)
+<img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/360_F_430128077_LH7gf3HpRH4pp4P8ULCXkwBca72XK0SW.jpg"  alt="1" width = 960px height = 260px > 
 
 ---
 
-<img src = "https://img.shields.io/badge/Python 3.9-006C6B?style=for-the-badge&color=3C7270&labelColor=%23006C6B&logo=python&logoColor=FFFFFF"> <img src ='https://img.shields.io/github/watchers/HerrPhoton/AgroCode_Hack_2023?style=for-the-badge&color=3C7270&labelColor=%23006C6B&logo=actigraph&logoColor=FFFFFF'>
-<img src ='https://img.shields.io/github/repo-size/HerrPhoton/AgroCode_Hack_2023?style=for-the-badge&color=3C7270&labelColor=%23006C6B&logo=weightsandbiases&logoColor=FFFFFF'>
-
-
+<img src = "https://img.shields.io/badge/Python 3.9-006C6B?style=for-the-badge&color=3C7270&labelColor=%23006C6B&logo=python&logoColor=FFFFFF">
 
 ---
 ### Выполнили: 
@@ -30,7 +27,7 @@
 
 ---
 
-![](https://github.com/HerrPhoton/Water_drop_detection/blob/Documentation/images/dataset)
+<img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(63).png"  alt="1" width = 460px height = 360px > <img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(64).png"  alt="1" width = 460px height = 360px > 
 
 ---
 
@@ -51,10 +48,10 @@ pip -r install requirements.txt
 
 ---
 
-<img src="https://github.com/HerrPhoton/Water_drop_detection/blob/Documentation/images/test1-1.jpg"  alt="1" width = 360px height = 360px > 
+<img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(63).png"  alt="1" width = 360px height = 360px > 
 
 ## Источники
 
 ---
-[AgroCode_Hack_2023]([https://arxiv.org/abs/1505.04597](https://rshbdigital.ru/agrocode-hack/agrocode-hack2023-task3))  
+[AgroCode_Hack_2023](https://rshbdigital.ru/agrocode-hack/agrocode-hack2023-task3)
 
