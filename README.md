@@ -50,8 +50,14 @@ pip install -r requirements.txt
 
 <img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(69).png"  alt="1" width = 560px height = 360px > 
 <img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(70).png"  alt="1" width = 560px height = 360px > 
+
 ## Источники
 
 ---
 [AgroCode_Hack_2023](https://rshbdigital.ru/agrocode-hack/agrocode-hack2023-task3)
+
+## Диплом
+
+---
+<img src="https://github.com/HerrPhoton/AgroCode_Hack_2023/blob/main/images/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%AA.jpg"  alt="1" width = 465px height = 658px>
 
